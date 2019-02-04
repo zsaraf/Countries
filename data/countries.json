@@ -695,7 +695,7 @@
   "DO": {
     "name": "Dominican Republic",
     "native": "República Dominicana",
-    "phone": "1809,1829,1849",
+    "phone": "1",
     "continent": "NA",
     "capital": "Santo Domingo",
     "currency": "DOP",
@@ -2075,7 +2075,7 @@
   "PR": {
     "name": "Puerto Rico",
     "native": "Puerto Rico",
-    "phone": "1787,1939",
+    "phone": "1",
     "continent": "NA",
     "capital": "San Juan",
     "currency": "USD",
@@ -2688,7 +2688,7 @@
   "VA": {
     "name": "Vatican City",
     "native": "Vaticano",
-    "phone": "39066,379",
+    "phone": "3",
     "continent": "EU",
     "capital": "Vatican City",
     "currency": "EUR",
@@ -2791,7 +2791,7 @@
   "XK": {
     "name": "Kosovo",
     "native": "Republika e Kosovës",
-    "phone": "377,381,383,386",
+    "phone": "3",
     "continent": "EU",
     "capital": "Pristina",
     "currency": "EUR",
